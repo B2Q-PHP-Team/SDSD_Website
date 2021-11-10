@@ -1,0 +1,1 @@
+[27-Oct-2021 16:57:39 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/b2qsampath/public_html/thirunallarutemple.org/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
